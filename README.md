@@ -1,4 +1,4 @@
-# SYSTEMSGT
+/*# SYSTEMSGT
 
 Codigo fuente de aplicación CHAT - SYSTEMSGT
 
@@ -44,4 +44,4 @@ Si tienes ideas de como mejorar la aplicación, por favor envíanos un mensaje a
 ```
 
 ---
-Desarrollado por [SYSTEMSGT](https://github.com/systemsgt).
+Desarrollado por [SYSTEMSGT](https://github.com/systemsgt).*/
